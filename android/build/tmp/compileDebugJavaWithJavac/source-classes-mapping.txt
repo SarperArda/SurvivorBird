@@ -1,0 +1,4 @@
+com/bakirsoftware/survivorbird/AndroidLauncher.java
+ com.bakirsoftware.survivorbird.AndroidLauncher
+com/bakirsoftware/survivorbird/BuildConfig.java
+ com.bakirsoftware.survivorbird.BuildConfig

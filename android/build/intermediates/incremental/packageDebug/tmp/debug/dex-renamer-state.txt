@@ -1,0 +1,4 @@
+#Wed Sep 07 12:13:26 TRT 2022
+base.0=/Users/sarperardabakir/Desktop/Android/Android Demos/SurvivorBird/android/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
